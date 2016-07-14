@@ -1,1 +1,0 @@
-base GIT repository for testing or whatever
